@@ -2,4 +2,4 @@
 
 Basic implementation of DCGAN using Fashion MNIST Dataset.
 
-![GIF](https://imgur.com/a/Hrq3miw.gif)
+![GIF](https://imgur.com/jN9R59Y.gif)
