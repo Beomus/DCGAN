@@ -1,4 +1,4 @@
-# DCGAN with Tensorflow/Keras
+# DCGAN with Tensorflow/Keras and PyTorch
 
 Basic implementation of DCGAN using Fashion MNIST Dataset.
 
